@@ -1,0 +1,8 @@
+## Interface: 11501
+## Version: 1.0.0
+## Title: First Person Adventure
+## Notes: See World of Warcraft from a new perspective!
+## Author: Zock
+## SavedVariables: FirstPersonAdventureDB
+
+main.lua
