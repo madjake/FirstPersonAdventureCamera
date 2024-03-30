@@ -9,7 +9,9 @@ Curse Forge: https://www.curseforge.com/wow/addons/first-person-adventure-camera
 ## Commands
 
 `/fpa` to toggle on and off
+
 `/fpa hardcore` toggle on and off hardcore mode which keeps you in First Person during combat
+
 `/fpa reset` reset to default
 
 ## How it works
@@ -22,4 +24,4 @@ You can toggle on "hardcore" mode  with `/fpa hardcore` which will keep you in f
 
 ## Why
 
-It can be a lot more immersive as scale and detail is a lot easier to notice!+
+It can be a lot more immersive as scale and detail is a lot easier to notice!
